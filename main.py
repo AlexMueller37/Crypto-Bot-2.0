@@ -17,8 +17,8 @@ in_position = False
 
 TRADE_QUANTITY = 1
 
-API_KEY = 'PKEACEMDMC69HGLPAKU0'
-SECRET_KEY = 'SdWuBij5goM1FacHxGBVZPgfObz3X4lg2n0F5Evl'
+API_KEY = '###############' #Alpaca API key
+SECRET_KEY = '#######################' #Alpaca secret API key
 
 while True: 
     response = requests.get(url)
